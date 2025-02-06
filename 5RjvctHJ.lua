@@ -1,11 +1,3 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
---[[
-  Cry More xj3t_
-  you cant even make optimization
-]]
-
 -- local HWIDTable = loadstring(game:HttpGet("https://raw.githubusercontent.com/CrismonPetrasion/HWID/main/Checker.lua"))()
 local HWID = game:GetService("RbxAnalyticsService"):GetClientId()
 
